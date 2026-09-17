@@ -24,7 +24,7 @@ skills required for Data Analytics and AI/ML roles.
 
 ## Progress
 
-- [ ] Day 01 - Variables & Data Types
+- [x] Day 01 - Variables & Data Types
 - [ ] Day 02 - Input & Operators
 - [ ] Day 03 - Strings
 - [ ] Day 04 - Conditions
